@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 0f706470f92e495408c7c843cb635e5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5046810675745585038
+    second: shoot_hand_shot_0
+  - first:
+      213: -5654017811542199945
+    second: shoot_hand_shot_1
+  - first:
+      213: 3311282398347848840
+    second: shoot_hand_shot_2
+  - first:
+      213: 965764924571053723
+    second: shoot_hand_shot_3
+  - first:
+      213: 8112251818550545608
+    second: shoot_hand_shot_4
+  - first:
+      213: 1948970350127734102
+    second: shoot_hand_shot_5
+  - first:
+      213: 4591252181052676300
+    second: shoot_hand_shot_6
+  - first:
+      213: 2710094629857515208
+    second: shoot_hand_shot_7
+  - first:
+      213: 5313547950628572169
+    second: shoot_hand_shot_8
+  - first:
+      213: 6200875691724011177
+    second: shoot_hand_shot_9
+  - first:
+      213: 314870097411510453
+    second: shoot_hand_shot_10
+  - first:
+      213: -812441236463506388
+    second: shoot_hand_shot_11
+  - first:
+      213: -5037695840183279564
+    second: shoot_hand_shot_12
+  - first:
+      213: -681722408086506792
+    second: shoot_hand_shot_13
+  - first:
+      213: 6140807842870996124
+    second: shoot_hand_shot_14
+  - first:
+      213: -2521289407020697881
+    second: shoot_hand_shot_15
+  - first:
+      213: -1907159879194165886
+    second: shoot_hand_shot_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.09, y: 0.86}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shoot_hand_shot_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 101
+        width: 558
+        height: 952
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2780987fd6026f9b0800000000000000
+      internalID: -5046810675745585038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 927
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771bb45b1c4e881b0800000000000000
+      internalID: -5654017811542199945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 849
+        width: 8
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ce6802cc904fd20800000000000000
+      internalID: 3311282398347848840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 364
+        width: 6
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ee6910516176d00800000000000000
+      internalID: 965764924571053723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_4
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 321
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccc8356c02849070800000000000000
+      internalID: 8112251818550545608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 117
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dd12515322c0b10800000000000000
+      internalID: 1948970350127734102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 71
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8d1ed788767bf30800000000000000
+      internalID: 4591252181052676300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 88
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6d95805b03c9520800000000000000
+      internalID: 2710094629857515208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 38
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c883e65b38db940800000000000000
+      internalID: 5313547950628572169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a67095869fed0650800000000000000
+      internalID: 6200875691724011177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 77
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b01b927fa4ae5400800000000000000
+      internalID: 314870097411510453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 94
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ca6bbfff0a9b4f0800000000000000
+      internalID: -812441236463506388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_12
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 10
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430a96ff252861ab0800000000000000
+      internalID: -5037695840183279564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 83
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2749ee4190a86f0800000000000000
+      internalID: -681722408086506792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_14
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c224c9238883550800000000000000
+      internalID: 6140807842870996124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_15
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6739684a4920dd0800000000000000
+      internalID: -2521289407020697881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot_hand_shot_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d31c6c1386885e0800000000000000
+      internalID: -1907159879194165886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shoot_hand_shot_0: -5046810675745585038
+      shoot_hand_shot_1: -5654017811542199945
+      shoot_hand_shot_10: 314870097411510453
+      shoot_hand_shot_11: -812441236463506388
+      shoot_hand_shot_12: -5037695840183279564
+      shoot_hand_shot_13: -681722408086506792
+      shoot_hand_shot_14: 6140807842870996124
+      shoot_hand_shot_15: -2521289407020697881
+      shoot_hand_shot_16: -1907159879194165886
+      shoot_hand_shot_2: 3311282398347848840
+      shoot_hand_shot_3: 965764924571053723
+      shoot_hand_shot_4: 8112251818550545608
+      shoot_hand_shot_5: 1948970350127734102
+      shoot_hand_shot_6: 4591252181052676300
+      shoot_hand_shot_7: 2710094629857515208
+      shoot_hand_shot_8: 5313547950628572169
+      shoot_hand_shot_9: 6200875691724011177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+repository "SKG-Jam-26/SKG-Jam-26@5773681284657@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e9aed6bf81bee04bbccca1e64c8492f, type: 3}
+  m_Name: Shoot
+  m_EditorClassIdentifier: Assembly-CSharp::HandState
+  openSprite: {fileID: 21300000, guid: 24e231138222caa47a1ddd78e8e527c4, type: 3}
+  holdSprite: {fileID: 21300000, guid: 0f706470f92e495408c7c843cb635e5f, type: 3}
